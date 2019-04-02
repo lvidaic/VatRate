@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d2c88bc-6354-416c-9e12-3a5bf0f802df" name="Default" comment="" />
+    <list default="true" id="0d2c88bc-6354-416c-9e12-3a5bf0f802df" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,7 +32,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="VatController.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="VatController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/barclays/VatController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="391">
@@ -40,6 +42,15 @@
                 <element signature="e#289#290#0" expanded="true" />
                 <element signature="e#316#317#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="6" selection-start-column="6" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -158,6 +169,7 @@
         <option value="$PROJECT_DIR$/src/main/resources/file.json" />
         <option value="$PROJECT_DIR$/src/main/java/com/barclays/Application.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/barclays/VatController.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -185,38 +197,6 @@
             <path>
               <item name="jsonvat" type="b2602c69:ProjectViewProjectNode" />
               <item name="jsonvat" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jsonvat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jsonvat" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jsonvat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jsonvat" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jsonvat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jsonvat" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jsonvat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jsonvat" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="barclays" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jsonvat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jsonvat" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -301,6 +281,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -546,6 +527,13 @@
             <element signature="e#289#290#0" expanded="true" />
             <element signature="e#316#317#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
         </state>
       </provider>
     </entry>
