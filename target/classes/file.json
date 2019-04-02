@@ -1,0 +1,594 @@
+[
+  {
+    "name": "Spain",
+    "code": "ES",
+    "periods": [
+      {
+        "effective_from": "0001-01-01",
+        "rates": {
+          "standard": 21.0
+        }
+      }
+    ],
+    "newestPeriod": {
+      "effective_from": "0001-01-01",
+      "rates": {
+        "standard": 21.0
+      }
+    },
+    "country_code": "ES"
+  },
+  {
+    "name": "Bulgaria",
+    "code": "BG",
+    "periods": [
+      {
+        "effective_from": "0001-01-01",
+        "rates": {
+          "standard": 20.0
+        }
+      }
+    ],
+    "newestPeriod": {
+      "effective_from": "0001-01-01",
+      "rates": {
+        "standard": 20.0
+      }
+    },
+    "country_code": "BG"
+  },
+  {
+    "name": "Hungary",
+    "code": "HU",
+    "periods": [
+      {
+        "effective_from": "0001-01-01",
+        "rates": {
+          "standard": 27.0
+        }
+      }
+    ],
+    "newestPeriod": {
+      "effective_from": "0001-01-01",
+      "rates": {
+        "standard": 27.0
+      }
+    },
+    "country_code": "HU"
+  },
+  {
+    "name": "Latvia",
+    "code": "LV",
+    "periods": [
+      {
+        "effective_from": "0001-01-01",
+        "rates": {
+          "standard": 21.0
+        }
+      }
+    ],
+    "newestPeriod": {
+      "effective_from": "0001-01-01",
+      "rates": {
+        "standard": 21.0
+      }
+    },
+    "country_code": "LV"
+  },
+  {
+    "name": "Poland",
+    "code": "PL",
+    "periods": [
+      {
+        "effective_from": "0001-01-01",
+        "rates": {
+          "standard": 23.0
+        }
+      }
+    ],
+    "newestPeriod": {
+      "effective_from": "0001-01-01",
+      "rates": {
+        "standard": 23.0
+      }
+    },
+    "country_code": "PL"
+  },
+  {
+    "name": "United Kingdom",
+    "code": "UK",
+    "periods": [
+      {
+        "effective_from": "2011-01-04",
+        "rates": {
+          "standard": 20.0
+        }
+      }
+    ],
+    "newestPeriod": {
+      "effective_from": "2011-01-04",
+      "rates": {
+        "standard": 20.0
+      }
+    },
+    "country_code": "GB"
+  },
+  {
+    "name": "Czech Republic",
+    "code": "CZ",
+    "periods": [
+      {
+        "effective_from": "0001-01-01",
+        "rates": {
+          "standard": 21.0
+        }
+      }
+    ],
+    "newestPeriod": {
+      "effective_from": "0001-01-01",
+      "rates": {
+        "standard": 21.0
+      }
+    },
+    "country_code": "CZ"
+  },
+  {
+    "name": "Malta",
+    "code": "MT",
+    "periods": [
+      {
+        "effective_from": "0001-01-01",
+        "rates": {
+          "standard": 18.0
+        }
+      }
+    ],
+    "newestPeriod": {
+      "effective_from": "0001-01-01",
+      "rates": {
+        "standard": 18.0
+      }
+    },
+    "country_code": "MT"
+  },
+  {
+    "name": "Italy",
+    "code": "IT",
+    "periods": [
+      {
+        "effective_from": "0001-01-01",
+        "rates": {
+          "standard": 22.0
+        }
+      }
+    ],
+    "newestPeriod": {
+      "effective_from": "0001-01-01",
+      "rates": {
+        "standard": 22.0
+      }
+    },
+    "country_code": "IT"
+  },
+  {
+    "name": "Slovenia",
+    "code": "SI",
+    "periods": [
+      {
+        "effective_from": "0001-01-01",
+        "rates": {
+          "standard": 22.0
+        }
+      }
+    ],
+    "newestPeriod": {
+      "effective_from": "0001-01-01",
+      "rates": {
+        "standard": 22.0
+      }
+    },
+    "country_code": "SI"
+  },
+  {
+    "name": "Ireland",
+    "code": "IE",
+    "periods": [
+      {
+        "effective_from": "0001-01-01",
+        "rates": {
+          "standard": 23.0
+        }
+      }
+    ],
+    "newestPeriod": {
+      "effective_from": "0001-01-01",
+      "rates": {
+        "standard": 23.0
+      }
+    },
+    "country_code": "IE"
+  },
+  {
+    "name": "Sweden",
+    "code": "SE",
+    "periods": [
+      {
+        "effective_from": "0001-01-01",
+        "rates": {
+          "standard": 25.0
+        }
+      }
+    ],
+    "newestPeriod": {
+      "effective_from": "0001-01-01",
+      "rates": {
+        "standard": 25.0
+      }
+    },
+    "country_code": "SE"
+  },
+  {
+    "name": "Denmark",
+    "code": "DK",
+    "periods": [
+      {
+        "effective_from": "0001-01-01",
+        "rates": {
+          "standard": 25.0
+        }
+      }
+    ],
+    "newestPeriod": {
+      "effective_from": "0001-01-01",
+      "rates": {
+        "standard": 25.0
+      }
+    },
+    "country_code": "DK"
+  },
+  {
+    "name": "Finland",
+    "code": "FI",
+    "periods": [
+      {
+        "effective_from": "0001-01-01",
+        "rates": {
+          "standard": 24.0
+        }
+      }
+    ],
+    "newestPeriod": {
+      "effective_from": "0001-01-01",
+      "rates": {
+        "standard": 24.0
+      }
+    },
+    "country_code": "FI"
+  },
+  {
+    "name": "Cyprus",
+    "code": "CY",
+    "periods": [
+      {
+        "effective_from": "0001-01-01",
+        "rates": {
+          "standard": 19.0
+        }
+      }
+    ],
+    "newestPeriod": {
+      "effective_from": "0001-01-01",
+      "rates": {
+        "standard": 19.0
+      }
+    },
+    "country_code": "CY"
+  },
+  {
+    "name": "Luxembourg",
+    "code": "LU",
+    "periods": [
+      {
+        "effective_from": "2016-01-01",
+        "rates": {
+          "standard": 17.0
+        }
+      },
+      {
+        "effective_from": "2015-01-01",
+        "rates": {
+          "standard": 17.0
+        }
+      },
+      {
+        "effective_from": "0001-01-01",
+        "rates": {
+          "standard": 15.0
+        }
+      }
+    ],
+    "newestPeriod": {
+      "effective_from": "2016-01-01",
+      "rates": {
+        "standard": 17.0
+      }
+    },
+    "country_code": "LU"
+  },
+  {
+    "name": "Romania",
+    "code": "RO",
+    "periods": [
+      {
+        "effective_from": "2017-01-01",
+        "rates": {
+          "standard": 19.0
+        }
+      },
+      {
+        "effective_from": "2016-01-01",
+        "rates": {
+          "standard": 20.0
+        }
+      },
+      {
+        "effective_from": "0001-01-01",
+        "rates": {
+          "standard": 24.0
+        }
+      }
+    ],
+    "newestPeriod": {
+      "effective_from": "2017-01-01",
+      "rates": {
+        "standard": 19.0
+      }
+    },
+    "country_code": "RO"
+  },
+  {
+    "name": "Estonia",
+    "code": "EE",
+    "periods": [
+      {
+        "effective_from": "0001-01-01",
+        "rates": {
+          "standard": 20.0
+        }
+      }
+    ],
+    "newestPeriod": {
+      "effective_from": "0001-01-01",
+      "rates": {
+        "standard": 20.0
+      }
+    },
+    "country_code": "EE"
+  },
+  {
+    "name": "Greece",
+    "code": "EL",
+    "periods": [
+      {
+        "effective_from": "2016-06-01",
+        "rates": {
+          "standard": 24.0
+        }
+      },
+      {
+        "effective_from": "2016-01-01",
+        "rates": {
+          "standard": 23.0
+        }
+      },
+      {
+        "effective_from": "0001-01-01",
+        "rates": {
+          "standard": 23.0
+        }
+      }
+    ],
+    "newestPeriod": {
+      "effective_from": "2016-06-01",
+      "rates": {
+        "standard": 24.0
+      }
+    },
+    "country_code": "GR"
+  },
+  {
+    "name": "Lithuania",
+    "code": "LT",
+    "periods": [
+      {
+        "effective_from": "0001-01-01",
+        "rates": {
+          "standard": 21.0
+        }
+      }
+    ],
+    "newestPeriod": {
+      "effective_from": "0001-01-01",
+      "rates": {
+        "standard": 21.0
+      }
+    },
+    "country_code": "LT"
+  },
+  {
+    "name": "France",
+    "code": "FR",
+    "periods": [
+      {
+        "effective_from": "2014-01-01",
+        "rates": {
+          "standard": 20.0
+        }
+      },
+      {
+        "effective_from": "2012-01-01",
+        "rates": {
+          "standard": 19.6
+        }
+      },
+      {
+        "effective_from": "0001-01-01",
+        "rates": {
+          "standard": 19.6
+        }
+      }
+    ],
+    "newestPeriod": {
+      "effective_from": "2014-01-01",
+      "rates": {
+        "standard": 20.0
+      }
+    },
+    "country_code": "FR"
+  },
+  {
+    "name": "Croatia",
+    "code": "HR",
+    "periods": [
+      {
+        "effective_from": "0001-01-01",
+        "rates": {
+          "standard": 25.0
+        }
+      }
+    ],
+    "newestPeriod": {
+      "effective_from": "0001-01-01",
+      "rates": {
+        "standard": 25.0
+      }
+    },
+    "country_code": "HR"
+  },
+  {
+    "name": "Belgium",
+    "code": "BE",
+    "periods": [
+      {
+        "effective_from": "0001-01-01",
+        "rates": {
+          "standard": 21.0
+        }
+      }
+    ],
+    "newestPeriod": {
+      "effective_from": "0001-01-01",
+      "rates": {
+        "standard": 21.0
+      }
+    },
+    "country_code": "BE"
+  },
+  {
+    "name": "Netherlands",
+    "code": "NL",
+    "periods": [
+      {
+        "effective_from": "2012-10-01",
+        "rates": {
+          "standard": 21.0
+        }
+      },
+      {
+        "effective_from": "0001-01-01",
+        "rates": {
+          "standard": 19.0
+        }
+      }
+    ],
+    "newestPeriod": {
+      "effective_from": "2012-10-01",
+      "rates": {
+        "standard": 21.0
+      }
+    },
+    "country_code": "NL"
+  },
+  {
+    "name": "Slovakia",
+    "code": "SK",
+    "periods": [
+      {
+        "effective_from": "0001-01-01",
+        "rates": {
+          "standard": 20.0
+        }
+      }
+    ],
+    "newestPeriod": {
+      "effective_from": "0001-01-01",
+      "rates": {
+        "standard": 20.0
+      }
+    },
+    "country_code": "SK"
+  },
+  {
+    "name": "Germany",
+    "code": "DE",
+    "periods": [
+      {
+        "effective_from": "0001-01-01",
+        "rates": {
+          "standard": 19.0
+        }
+      }
+    ],
+    "newestPeriod": {
+      "effective_from": "0001-01-01",
+      "rates": {
+        "standard": 19.0
+      }
+    },
+    "country_code": "DE"
+  },
+  {
+    "name": "Portugal",
+    "code": "PT",
+    "periods": [
+      {
+        "effective_from": "0001-01-01",
+        "rates": {
+          "standard": 23.0
+        }
+      }
+    ],
+    "newestPeriod": {
+      "effective_from": "0001-01-01",
+      "rates": {
+        "standard": 23.0
+      }
+    },
+    "country_code": "PT"
+  },
+  {
+    "name": "Austria",
+    "code": "AT",
+    "periods": [
+      {
+        "effective_from": "2016-01-01",
+        "rates": {
+          "standard": 20.0
+        }
+      },
+      {
+        "effective_from": "0001-01-01",
+        "rates": {
+          "standard": 20.0
+        }
+      }
+    ],
+    "newestPeriod": {
+      "effective_from": "2016-01-01",
+      "rates": {
+        "standard": 20.0
+      }
+    },
+    "country_code": "AT"
+  }
+]

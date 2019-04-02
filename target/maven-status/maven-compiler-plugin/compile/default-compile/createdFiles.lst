@@ -1,0 +1,8 @@
+com/barclays/client/model/Period.class
+com/barclays/client/model/Country.class
+com/barclays/client/model/JsonVat.class
+com/barclays/client/VatRepository.class
+com/barclays/client/service/VatService.class
+com/barclays/VatController.class
+com/barclays/Application.class
+com/barclays/client/model/Period$Rate.class
